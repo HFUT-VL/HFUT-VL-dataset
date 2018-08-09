@@ -3,11 +3,11 @@ HFUT VCC Vehicle Logo Dataset</br>
 
 Dataset Description:</br>
 --------------------------
-The HFUT-CarLogo dataset contains 32000 vehicle images and includes two parts. One is the HFUT-VL1 and the other is HFUT-VL2.</br>
+The HFUT-CarLogo dataset contains 32000 car logo images, which came from on-road real time surveillance systems. Two different parts are included, HFUT-VL1 and HFUT-VL2.</br>
 
-The HFUT-VL1 dataset is the carlogo accurate location. All carlogo image in the dataset are divided into 80 categories according to different brands and each categorie has 200 images with the size of 64*64.</br>
+For HFUT-VL1, all car logo images are obtained through accurate location of the logo, which are used for evaluation of classification algorithms. In HFUT-VL1, 80 categories of logo images are included with size of 64*64, and each category has 200 images.</br>
 
-The HFUT-VL2 dataset is the carlogo rough location. This dataset also has 80 categories and each categorie has 200 images with the size of 64*96. Due to the carlogo with rough location, the location of each carlogo is pre-annotated. The dataset can also be used for evaluating the performance of carlogo detection. The annotation is save by XML and could be opened by python.</br> 
+For HFUT-VL2, all car logo images are obtained through a coarse location scheme, with the accurate location of car logos annotated by XML, which can be used both for evaluation of car logo classification and location algorithms. In HFUT-VL2, 80 categories of logo images are included with size of 64*96, and each category has 200 images.</br> 
 
 If you would to use the dataset, please cite the following paper:</br>
 -----------------------------------------------------------------------
