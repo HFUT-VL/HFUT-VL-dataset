@@ -15,7 +15,7 @@ For HFUT-VL2, all car logo images are obtained through a coarse location scheme,
 
 Related Work:</br>
 -----------------------------------------------------------------------
-If you would to use the dataset, please cite the following paper:</br>
+If you would like to use the dataset, please cite the following paper:</br>
 
 @article{YU2018273,</br>
 title = "Vehicle logo recognition based on overlapping enhanced patterns of oriented edge magnitudes",</br>
