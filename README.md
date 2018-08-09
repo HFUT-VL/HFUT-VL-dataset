@@ -9,8 +9,10 @@ For HFUT-VL1, all car logo images are obtained through accurate location of the 
 
 For HFUT-VL2, all car logo images are obtained through a coarse location scheme, with the accurate location of car logos annotated by XML, which can be used both for evaluation of car logo classification and location algorithms. In HFUT-VL2, 80 categories of logo images are included with size of 64*96, and each category has 200 images.</br> 
 
-If you would to use the dataset, please cite the following paper:</br>
+Related Work:</br>
 -----------------------------------------------------------------------
+If you would to use the dataset, please cite the following paper:</br>
+
 @article{YU2018273,</br>
 title = "Vehicle logo recognition based on overlapping enhanced patterns of oriented edge magnitudes",</br>
 journal = "Computers & Electrical Engineering",</br>
